@@ -78,9 +78,9 @@ class Mushfiqul extends WebDeveloper
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mushfiqulislam&show_icons=true&theme=default&hide_border=true&title_color=2ec4b6&icon_color=2ec4b6&text_color=1a2e2d&bg_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mushfiqul21&show_icons=true&theme=default&hide_border=true&title_color=2ec4b6&icon_color=2ec4b6&text_color=1a2e2d&bg_color=ffffff" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqulislam&layout=compact&theme=default&hide_border=true&title_color=2ec4b6&text_color=1a2e2d&bg_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqul21&layout=compact&theme=default&hide_border=true&title_color=2ec4b6&text_color=1a2e2d&bg_color=ffffff" height="170"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ class Mushfiqul extends WebDeveloper
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mushfiqulislam&theme=default&hide_border=true&ring=2ec4b6&fire=2ec4b6&currStreakLabel=2ec4b6&sideLabels=1a2e2d&dates=7aabaa&currStreakNum=1a2e2d&sideNums=1a2e2d"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mushfiqul21&theme=default&hide_border=true&ring=2ec4b6&fire=2ec4b6&currStreakLabel=2ec4b6&sideLabels=1a2e2d&dates=7aabaa&currStreakNum=1a2e2d&sideNums=1a2e2d"/>
 </p>
 
 ---
