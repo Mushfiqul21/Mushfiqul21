@@ -93,22 +93,6 @@ class Mushfiqul extends WebDeveloper
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mushfiqulislam&theme=flat&no-frame=true&column=7&margin-w=8&title_color=2ec4b6"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mushfiqulislam&theme=minimal&hide_border=true&color=2ec4b6&line=2ec4b6&point=1fa89b&area=true&area_color=cbf3f0"/>
-</p>
-
----
-
 ## 🚀 What I Build
 
 | Type | Technologies |
@@ -164,6 +148,3 @@ class Mushfiqul extends WebDeveloper
   <i>"Clean code always looks like it was written by someone who cares."</i>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mushfiqulislam&label=Profile%20Views&color=2&icon=5&pretty=true" />
-</p>
