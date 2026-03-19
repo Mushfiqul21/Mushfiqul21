@@ -121,19 +121,19 @@ class Mushfiqul extends WebDeveloper
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mushfiqulislam">
+  <a href="https://linkedin.com/in/mushfiqul-islam-m35822">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://github.com/mushfiqulislam">
+  <a href="https://github.com/mushfiqul21">
     <img src="https://img.shields.io/badge/GitHub-1a2e2d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="mailto:mushfiqul@email.com">
+  <a href="mailto:mushfiqulislam21@email.com">
     <img src="https://img.shields.io/badge/Email-2ec4b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://mushfiqulislam.dev">
+  <a href="https://mushfiqulislam.dev](https://mushfiqul21.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-1fa89b?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
