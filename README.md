@@ -51,6 +51,7 @@ class Mushfiqul extends WebDeveloper
 
 #### ⚛️ Frontend
 <p>
+  <img src="https://skillicons.dev/icons?i=vue" height="40" title="Vue"/>
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=jquery" height="40" title="jQuery"/>
@@ -80,7 +81,7 @@ class Mushfiqul extends WebDeveloper
 | Type | Technologies |
 |---|---|
 | 🌐 Web Apps | Laravel, PHP, MySQL, REST API |
-| ⚛️ Frontend | React, JavaScript, jQuery |
+| ⚛️ Frontend | Vue.js, React, JavaScript, jQuery |
 | 🎨 UI/UX | Tailwind CSS, Bootstrap, HTML, CSS |
 | 🛒 CMS | WordPress, WooCommerce |
 | 🔌 API | RESTful APIs, Laravel Sanctum |
