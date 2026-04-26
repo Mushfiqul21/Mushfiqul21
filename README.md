@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=34&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+I'm+Mushfiqul+Islam;Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Tailwind;Clean+Code+%7C+Clean+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=34&pause=1000&color=ffffff&center=true&vCenter=true&width=600&height=50&lines=Hi+There!+I'm+Mushfiqul+Islam;Full+Stack+Web+Developer;Laravel+%7C+Vue.js+%7C+React+%7C+Tailwind;Clean+Code+%7C+Clean+UI" alt="Typing SVG" />
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mushfiqul21&label=Profile+Views&color=2ec4b6&style=flat" alt="profile views" />
