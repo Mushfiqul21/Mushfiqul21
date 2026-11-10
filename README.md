@@ -16,15 +16,15 @@
 class Mushfiqul extends WebDeveloper
 {
     public string $name     = "Mushfiqul Islam";
-    public string $role     = "Web Developer";
+    public string $role     = "Full-Stack Developer";
     public string $location = "Bangladesh 🇧🇩";
-    public string $experience = "1.5+ Years Professional";
+    public string $experience = "2+ Years Professional";
 
     public array $currentlyDoing = [
         "💼 Working as a Laravel Developer",
-        "⚛️  Learning React & building SaaS products",
+        "⚛️ Learning React, Next.Js & building SaaS products",
         "🎨 Crafting clean UI with Tailwind CSS",
-        "🚀 Exploring full-stack web development",
+        "🚀 Exploring full-stack web development in Depth",
     ];
 
     public array $interests = [
@@ -51,7 +51,7 @@ class Mushfiqul extends WebDeveloper
 
 #### ⚛️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=vue" height="40" title="Vue"/>
+  <img src="https://skillicons.dev/icons?i=next" height="40" title="Next"/>
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React"/>
   <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=jquery" height="40" title="jQuery"/>
@@ -81,7 +81,7 @@ class Mushfiqul extends WebDeveloper
 | Type | Technologies |
 |---|---|
 | 🌐 Web Apps | Laravel, PHP, MySQL, REST API |
-| ⚛️ Frontend | Vue.js, React, JavaScript, jQuery |
+| ⚛️ Frontend | Next.js, React, JavaScript, jQuery |
 | 🎨 UI/UX | Tailwind CSS, Bootstrap, HTML, CSS |
 | 🛒 CMS | WordPress, WooCommerce |
 | 🔌 API | RESTful APIs, Laravel Sanctum |
@@ -92,7 +92,7 @@ class Mushfiqul extends WebDeveloper
 
 ```
 🏢 Web Developer
-   └── 1.5+ Years Professional Experience
+   └── 2+ Years Professional Experience
    └── Laravel Backend Development
    └── REST API Design & Integration
    └── Frontend Development
