@@ -13,7 +13,7 @@
 ```php
 <?php
 
-class Mushfiqul extends WebDeveloper
+class Mushfiqul extends FullStackDeveloper
 {
     public string $name     = "Mushfiqul Islam";
     public string $role     = "Full-Stack Developer";
