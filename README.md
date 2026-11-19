@@ -21,8 +21,8 @@ class Mushfiqul extends FullStackDeveloper
     public string $experience = "2+ Years Professional";
 
     public array $currentlyDoing = [
-        "💼 Working as a Laravel Developer",
-        "⚛️ Learning React, Next.Js & building SaaS products",
+        "💼 Working as a Full Stack Developer",
+        "⚛️ Diving into React, Next.Js & building SaaS products",
         "🎨 Crafting clean UI with Tailwind CSS",
         "🚀 Exploring full-stack web development in Depth",
     ];
